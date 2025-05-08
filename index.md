@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Hello world!
+
 ---
 
 # Lucas11 Blue theme

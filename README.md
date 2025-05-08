@@ -1,10 +1,4 @@
-# Tonic Starter
+# Lucas11 Blue theme
+*Im blue Da-ba-dee, da-ba-di, da-ba-dee, da-ba-di*
 
-A sample [Jekyll](https://jekyllrb.com) theme designed to be a starting point for all [Tonic](https://github.com/hackclub/tonic) submissions.
-
-This template is intentionally left incomplete; users should play through Tonic to learn how to make a full-featured theme.
-
-# Usage
-1. At the top of this page, select **Use this template** &gt; **Create a new repository** to clone the template to your account.
-2. Create a codespace from the created repository (for beginners) or use `git clone` (for advanced users) to start pushing commits.
-3. Run `gem install jekyll`, then `jekyll serve` to see the template in action.
+This is a [blue](https://youtu.be/bNZ5MlGvZM0?t=193) theme for Jekyll made by me ([Lucas11](https://lucas11.dev/))

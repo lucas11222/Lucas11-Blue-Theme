@@ -1,5 +1,5 @@
-title: lucas11-blue-theme
-description: "This is a blue theme made by me (Lucas11)
+title: Lucas11 blue theme
+description: This is a blue theme made by lucas11.
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
