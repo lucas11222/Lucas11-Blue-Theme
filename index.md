@@ -1,4 +1,5 @@
 ---
+layout: default
 ---
 
 # Lucas11 Blue theme
