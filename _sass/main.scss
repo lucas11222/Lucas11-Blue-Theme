@@ -12,6 +12,20 @@
   align-items: center;
 
 }
+.header {
+  background-color: #203fba;
+  font-family: sans-serif;
+  margin: auto;
+  max-width: 70ch;
+  margin-top: 10px;
+  color: #85c1ff;
+  border: 2px solid #203fba;
+  border-radius: 10px;
+  padding: 8px;
+  justify-content: center;
+  align-items: center;
+
+}
 body {
     background-color: #324db9;
       font-family: sans-serif;
@@ -28,4 +42,8 @@ button {
     text-decoration: none;
     border-radius: 8px;
     font-size: 16px;
+}
+
+a {
+  
 }
