@@ -3,3 +3,4 @@ description: This is a blue theme made by lucas11.
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
+
