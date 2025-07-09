@@ -14,9 +14,4 @@ This is a [blue](https://youtu.be/bNZ5MlGvZM0?t=193) theme made by me ([Lucas11]
   link = "https://github.com/lucas11222/Lucas11-Blue-Theme"
 %}
 
-Heres all the components of this theme
-
-{% include checkbox.html
-  content = "Checkbox"
-  checked = "false"
-%}
+Go to [here](/components) for the components
