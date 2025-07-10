@@ -28,7 +28,7 @@
 
 }
 body {
-  background-color: rgb(13, 56, 105);
+  background-color: #586ec5;
   font-family: sans-serif;
   margin: auto;
   max-width: 70ch;
@@ -46,5 +46,9 @@ button {
 }
 a  {
   text-decoration: none;
-  color:rgb(0, 99, 199);
+  color:rgb(112, 184, 255);
+}
+a:hover  {
+  text-decoration:underline;
+  color:rgb(112, 184, 255);
 }
